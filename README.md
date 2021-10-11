@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinbourb
 - 👀 I’m interested in ... new work opportunites.
-- 🌱 I’m currently learning ... unit testing with pytest, node.js, React, bootstrap
+- 🌱 I’m currently learning ... C#, unit testing with pytest, node.js, React, bootstrap
 - 💞️ My education ... Bachelors of Science - Computer Science
 - 📫 How to reach me ... my user name @ protonmail.com
 
