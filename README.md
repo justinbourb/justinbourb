@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justinbourb
-- 👀 I’m interested in ... new work opportunites.
-- 🌱 I’m currently learning ... C#, unit testing with pytest, node.js, React, bootstrap
+<!-- - 👀 I’m interested in ... new work opportunites. -->
+- 🌱 I’m currently learning ... C# .Net
 - 💞️ My education ... Bachelors of Science - Computer Science
 - 📫 How to reach me ... my user name @ protonmail.com
 - github readme stats provided by https://github.com/anuraghazra/github-readme-stats
