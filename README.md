@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justinbourb
-- 🌱 I’m currently learning ... C# .Net
+- 🌱 I’m currently learning ... C# .Net and Microsoft Azure.
 - 💞️ My education ... Bachelors of Science - Computer Science
 - 📫 How to reach me ... my user name @ protonmail.com
 - github readme stats provided by https://github.com/anuraghazra/github-readme-stats
